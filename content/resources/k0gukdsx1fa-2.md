@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/17a1e2511fd05e7fae94c5e9acb0b391_K0GuKDSX1FA.vtt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 17a1e251-1fd0-5e7f-ae94-c5e9acb0b391
+---
